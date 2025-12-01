@@ -27,7 +27,9 @@ responses = {
     "motivate me": "Keep going. Every bug of your project makes you a better developer",
     "happy": "Great to hear that",
     "functions kya hote hai": "jaker chapter 7 padho",
-    "what about you": "I am just a bot, but I am learning new things every day!"
+    "what about you": "I am just a bot, but I am learning new things every day!",
+    "what is AI": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.",
+    "bye": "Goodbye! Have a great day ahead."
 }
 
 # Method/Function to get response of ChatBot
